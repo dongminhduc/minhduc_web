@@ -83,7 +83,7 @@ html {
     margin-top: 59px;
     position: relative;
     height: 600px;
-    background: url(/app-launch/app-launch/assets/img/macbookpro-13-h1-2020.jpg) center center / cover no-repeat;
+    background: url(../img/macbookpro-13-h1-2020.jpg) center center / cover no-repeat;
 background-attachment: fixed;
 }
 
